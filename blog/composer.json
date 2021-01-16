@@ -61,4 +61,8 @@
             "@php artisan key:generate --ansi"
         ]
     }
+
+    "require": {
+        "silex/silex": "~1.1",
+      }
 }
